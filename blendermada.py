@@ -29,7 +29,7 @@ bl_info = {
     "description": "Browse and download materials from online material database.",
     "warning": "Beta version",
     "wiki_url": "http://blendermada.com/addon.html",
-    "tracker_url": "https://github.com/TrueCryer/blendermada",
+    "tracker_url": "https://github.com/TrueCryer/blendermada_client/issues",
     "category": "Material",
 }
 
